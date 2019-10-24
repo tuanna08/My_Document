@@ -1,5 +1,5 @@
 #!/bin/bash
- echo "<=========================== Program by Nguyễn Anh Tuấn========================>"
+echo "<=========================== Program by Nguyễn Anh Tuấn========================>"
 DATE_STR=$(date '+%d-%b-%Y')
 DATE_TIME_STR=$(date +"%d-%b-%YT%T")
 
